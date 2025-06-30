@@ -3,7 +3,7 @@ Hey Upper East Siders, Gossip Girl here.
 Ever wondered if your server is about to totally flop at the Met Gala of production environments? Or if your CPU is throwing shade behind your back?
 
 <p align="center">
-  <img width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGtteGo5NDI5bGxveDdoMDRyb203YWs2NjIxYjA5b2JqMnZtNWw5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5yLgoc7NuyKE9aHTEGY/giphy.gif">
+  <img width="500" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGtteGo5NDI5bGxveDdoMDRyb203YWs2NjIxYjA5b2JqMnZtNWw5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5yLgoc7NuyKE9aHTEGY/giphy.gif">
 </p>
 
 Don’t worry, darlings. I’ve got you covered.
