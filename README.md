@@ -1,4 +1,4 @@
-💻✨ Server Health Check — Gossip Girl Edition ✨💻
+</h1><h3 align="center">💻✨ Server Health Check — Gossip Girl Edition ✨💻</h3>
 Hey Upper East Siders, Gossip Girl here.
 Ever wondered if your server is about to totally flop at the Met Gala of production environments? Or if your CPU is throwing shade behind your back?
 
@@ -48,11 +48,11 @@ Edit
 ----------------------------------------
 🖥️ SERVER HEALTH REPORT
 ----------------------------------------
-CPU Usage:    17% ✅ OK
-Memory Usage: 48% ✅ OK
-Disk Usage:   21% ✅ OK
-Top CPU Process: chrome (12%)
-Top Mem Process: node (18%)
+CPU Usage:    17% ✅ OK  
+Memory Usage: 48% ✅ OK  
+Disk Usage:   21% ✅ OK  
+Top CPU Process: chrome (12%)  
+Top Mem Process: node (18%)  
 ----------------------------------------
 Recommendation:
 - System status looks good! ✅
