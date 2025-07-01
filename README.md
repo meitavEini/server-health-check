@@ -64,3 +64,5 @@ Free to use, but don’t forget to give credit — or I might just leak your CPU
 
 XOXO,
 Gossip Girl 💋
+
+https://github.com/meitavEini/server-health-check
